@@ -45,10 +45,11 @@ Arborele de Decizie a depasit celelalte modele, demonstrand ca productia de ener
 ## Instructiuni de Rulare
 
 1. Se cloneaza repository-ul:
-   git clone https://github.com/UTILIZATORUL-TAU/Energy-Production-Classification.git
+   git clone https://github.com/Petrisor29/Energy-Production-Classification.git
 
 2. Se instaleaza bibliotecile necesare:
    pip install -r requirements.txt
 
 3. Se ruleaza scriptul de clasificare:
    python clasificare.py
+
