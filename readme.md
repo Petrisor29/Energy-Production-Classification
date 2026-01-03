@@ -52,3 +52,4 @@ Arborele de Decizie a depasit celelalte modele, demonstrand ca productia de ener
 
 3. Se ruleaza scriptul de clasificare:
    python clasificare.py
+
